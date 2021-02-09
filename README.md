@@ -17,8 +17,11 @@ ___TEMAS___
   }
   ```
 
-**¿ QUÉ ES EL DOM?**
+**¿ Qué es el DOM?**
   - Es una abreviatura de Document Objet Model, El DOM es la estructura de nodos que genera el navegador cuando se carga un documento, además se puede alterar, los objetos del DOM modelizan las ventanas del navegado, esto significa que podemos manipular las etiquetas del head y del body.
 
 **Funciones**
   - En Javascript las funciones son objetos, una función es un parte del código que puede ser llamado por código externo o interno. Una función se compone de una secuencia de declaraciones, que conforman el llamado cuerpo de la función. Se pueden pasar valores a una función, y la función puede devolver un valor.
+
+**Scope**
+  - Es el alcance que tiene una variable en tu código, existen dos tipos de scope, el scope global y el scope local.
