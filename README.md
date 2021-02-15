@@ -21,7 +21,7 @@ ___TEMAS___
   - Es una abreviatura de Document Objet Model, El DOM es la estructura de nodos que genera el navegador cuando se carga un documento, además se puede alterar, los objetos del DOM modelizan las ventanas del navegado, esto significa que podemos manipular las etiquetas del head y del body.
 
 **Tipo de Datos**
-  - Primitivos.
+  - Primitivos:  son datos que no son un objeto y no tienen métodos, son 6 tipos de datos primitivos: string, number, bigint, boolean , undefined y symbol.
   - Compuestos
 
 
