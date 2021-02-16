@@ -30,3 +30,6 @@ ___TEMAS___
 
 **Scope**
   - Es el alcance que tiene una variable en tu código, existen dos tipos de scope, el scope global y el scope local.
+  
+**Objetos**
+  - Un objeto es una colección de propiedades, y una propiedad es una asociación entre un nombre (o clave) y un valor. El valor de una propiedad puede ser una función, en cuyo caso la propiedad es conocida como un método..
