@@ -30,9 +30,15 @@ ___TEMAS___
 
 **Scope**
   - Es el alcance que tiene una variable en tu código, existen dos tipos de scope, el scope global y el scope local.
+ 
+ **Arreglos**
+  - Un arreglo (matriz) es una colección ordenada de datos. Los arreglos (matrices) se emplean para almacenar multiples valores en una sola variable, frente a las variables que sólo pueden almacenar un valor (por cada variable).
   
 **Objetos**
   - Un objeto es una colección de propiedades y una propiedad es una asociación entre un nombre (o clave) y un valor. El valor de una propiedad puede ser una función, en cuyo caso la propiedad es conocida como un método.
 
 **Desestructuración De Objetos**
   - Es una expresión que nos permite desempaquetar valores de arrays u objetos en grupos de variables, permitiéndonos simplificar y crear código más legible.
+ 
+
+
