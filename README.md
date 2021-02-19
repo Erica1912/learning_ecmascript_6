@@ -22,8 +22,11 @@ ___TEMAS___
 
 **Tipo de Datos**
   - Primitivos:  son datos que no son un objeto y no tienen métodos, son 6 tipos de datos primitivos: string, number, bigint, boolean , undefined y symbol.
-  - Compuestos
-
+  - Compuestos: se accede a la referencia del valor, objeto, array, función, class
+  
+**Tipo de Operados**
+  - Los aritméticos
+  
 
 **Funciones**
   - En Javascript las funciones son objetos, una función es un parte del código que puede ser llamado por código externo o interno. Una función se compone de una secuencia de declaraciones, que conforman el llamado cuerpo de la función. Se pueden pasar valores a una función, y la función puede devolver un valor.
