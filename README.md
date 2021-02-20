@@ -30,6 +30,7 @@ ___TEMAS___
 
 **Funciones**
   - En Javascript las funciones son objetos, una función es un parte del código que puede ser llamado por código externo o interno. Una función se compone de una secuencia de declaraciones, que conforman el llamado cuerpo de la función. Se pueden pasar valores a una función, y la función puede devolver un valor.
+  - Las funciones declarativas y funciones de expresión.
 
 **Scope**
   - Es el alcance que tiene una variable en tu código, existen dos tipos de scope, el scope global y el scope local.
