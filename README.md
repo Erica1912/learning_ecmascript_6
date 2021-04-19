@@ -41,6 +41,11 @@ ___TEMAS___
         }
 
   ```
+ 
+**Arrow functions**
+  - Es una forma de definir funciones anónimas que sean expresadas.
+    Algunas están diseñadas para mejorar la experiencia de codificación de JavaScript y ofrecer características nuevas (por ejemplo, Promise), otras servirán como 
+    extensiones o mejoras de las sintaxis y características ya existentes.
 
 **Scope**
   - Es el alcance que tiene una variable en tu código, existen dos tipos de scope, el scope global y el scope local.
@@ -50,6 +55,8 @@ ___TEMAS___
   
 **Objetos**
   - Un objeto es una colección de propiedades y una propiedad es una asociación entre un nombre (o clave) y un valor. El valor de una propiedad puede ser una función, en cuyo caso la propiedad es conocida como un método.
+
+
  
 **Parametros Rest, operador Spread**
   - Rest: La sintaxis de los parámetros rest nos permiten representar un número indefinido de argumentos como un array.
