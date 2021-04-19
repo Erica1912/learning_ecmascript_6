@@ -12,9 +12,8 @@ ___TEMAS___
   - La operación de asignación evalúa el valor asignado. Es posible encadenar el operador de asignación para asignar un solo valor a múltiples variables
   Sintaxis.
  - El operador de asignación (=) se utiliza para asignar un valor a una variable.
-  ```javascript
-   Operador: x = y
-  }
+  ```
+  	Operador: x = y  
   ```
 
 **¿ Qué es el DOM?**
@@ -33,12 +32,12 @@ ___TEMAS___
   
   - Las funciones declarativas y funciones de expresión.
   ```
-      // FunctionDeclaration
+      // FuncionDeclarativa
         function foo(){
           // código aquí
         }
 	 
-	   // FunctionExpression
+	   // FuncionExpresion
 	      var foo = function(){
 	        // código aquí
         }
