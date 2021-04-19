@@ -52,9 +52,6 @@ ___TEMAS___
   
 **Objetos**
   - Un objeto es una colección de propiedades y una propiedad es una asociación entre un nombre (o clave) y un valor. El valor de una propiedad puede ser una función, en cuyo caso la propiedad es conocida como un método.
-
-**Desestructuración De Objetos**
-  - Es una expresión que nos permite desempaquetar valores de arrays u objetos en grupos de variables, permitiéndonos simplificar y crear código más legible.
  
 **Parametros Rest, operador Spread**
   - Rest: La sintaxis de los parámetros rest nos permiten representar un número indefinido de argumentos como un array.
@@ -72,3 +69,6 @@ ___TEMAS___
      Lo que sucede es que las declaraciones de variables y funciones son asignadas en memoria durante la fase de compilación, pero quedan exactamente en dónde las has escrito 
      en el código
 
+
+**Desestructuración De Objetos**
+  - Es una expresión que nos permite desempaquetar valores de arrays u objetos en grupos de variables, permitiéndonos simplificar y crear código más legible.
