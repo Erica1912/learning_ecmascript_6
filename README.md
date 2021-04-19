@@ -56,7 +56,7 @@ ___TEMAS___
 **Desestructuración De Objetos**
   - Es una expresión que nos permite desempaquetar valores de arrays u objetos en grupos de variables, permitiéndonos simplificar y crear código más legible.
  
-**Parametros rest, operador spread**
+**Parametros Rest, operador Spread**
   - Rest: La sintaxis de los parámetros rest nos permiten representar un número indefinido de argumentos como un array.
   - Spread: operador de propagación, guardas multiplex argumentos, genera una lista de valores a partir de un array.
 
