@@ -74,6 +74,11 @@ ___TEMAS___
      Lo que sucede es que las declaraciones de variables y funciones son asignadas en memoria durante la fase de compilación, pero quedan exactamente en dónde las has escrito 
      en el código
 
-
 **Desestructuración De Objetos**
   - Es una expresión que nos permite desempaquetar valores de arrays u objetos en grupos de variables, permitiéndonos simplificar y crear código más legible.
+
+**Promesas**
+  - Una promesa representa la finalización de una función asíncrona. Es un objeto que podría devolver un valor en el futuro, cumpliendo el mismo rol que una función 
+    que podríamos usar como callback de otra función.  Sin embargo, las promesas incluyen más funcionalidades y disponen de una sintaxis mucho más legible.
+
+
