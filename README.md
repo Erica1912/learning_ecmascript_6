@@ -2,8 +2,6 @@
 
 #### Curso y Conceptos de Javascript - Ecmascript (es6)
 
-* Uso de nodeJS, NPM, babel
-
 ___TEMAS___
 
 **¿ Declaración y asignación de variables?**
