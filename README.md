@@ -75,10 +75,18 @@ ___TEMAS___
      en el código
 
 **Desestructuración De Objetos**
+
   - Es una expresión que nos permite desempaquetar valores de arrays u objetos en grupos de variables, permitiéndonos simplificar y crear código más legible.
 
 **Promesas**
+
   - Una promesa representa la finalización de una función asíncrona. Es un objeto que podría devolver un valor en el futuro, cumpliendo el mismo rol que una función 
     que podríamos usar como callback de otra función.  Sin embargo, las promesas incluyen más funcionalidades y disponen de una sintaxis mucho más legible.
+    
+**Callback**
+
+  - Es pasar una función como parámetro para que dicha función se encargue de ejecutar nuestro parámetro.
+    Pasamos una función como parámetro, y ese algo que queremos que haga lo ejecutar la función que recibe nuestro parámetro.
+    
 
 
